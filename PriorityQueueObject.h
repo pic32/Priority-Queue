@@ -13,7 +13,7 @@
 #ifndef PRIORITY_QUEUE_OBJECT_H
 	#define PRIORITY_QUEUE_OBJECT_H
 
-#include "GenericTypeDefs.h"
+#include "GenericTypes.h"
 #include "PriorityQueueConfig.h"
 
 struct _PriorityQueueNode

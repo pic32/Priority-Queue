@@ -26,7 +26,7 @@
 #ifndef PRIORITY_QUEUE_H
 	#define PRIORITY_QUEUE_H
 
-#include "GenericTypeDefs.h"
+#include "GenericTypes.h"
 #include "PriorityQueueObject.h"
 #include "PriorityQueueConfig.h"
 
